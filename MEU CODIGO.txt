@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Olá me chamo Richard
+=======
+Deus é fiel
+>>>>>>> dbdaad02cc52eeaa36e10957b6ff4f8fdf98cd7b
